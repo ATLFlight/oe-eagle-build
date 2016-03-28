@@ -3,4 +3,5 @@ cache
 downloads
 sstate-cache
 sanity_info
-tmp-eglibc
+tmp-glibc
+conf/templateconf.cfg
