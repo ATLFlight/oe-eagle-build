@@ -1,0 +1,6 @@
+bitbake.lock
+cache
+downloads
+sstate-cache
+sanity_info
+tmp-eglibc
